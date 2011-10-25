@@ -15,3 +15,9 @@
             algorithm
 * Univariate linear regression: Linear regression with one variable. One variable
                                 might be the housing pricing example.
+
+== Gradient Descent
+* Alpha is the rate of change. If too small, it can take to long to find the minimum.
+If too large, it can overshoot the minimum.
+* Derivitive and partial derivitive are the same thing for our purposes.
+* 
