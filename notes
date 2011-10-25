@@ -1,0 +1,17 @@
+== Supervised Learning (video_id=3)
+* Supervised Learning: "right answers" given. E.g. housing pricing, put a
+                       parabolic line or straight line and determine.
+* Regression output problem: Continuous value E.g. how many products will sell
+                             over the next 3 months.
+* Classification problem: discrete valued output (0 or 1). E.g. tumors
+
+== Unsupervised Learning (video_id=4)
+* Unsupervised Learning: here is a data set, can you determine something from it
+                         Unmarked data. Clustering data. E.g. google news
+* Octave is helpful for quickly learning ML
+
+== Modal Repressentation
+* Variables: m == amount of training data ; h == hypothesis of a learning
+            algorithm
+* Univariate linear regression: Linear regression with one variable. One variable
+                                might be the housing pricing example.
